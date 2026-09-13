@@ -29,7 +29,7 @@ export default function Footer() {
           <a href="https://github.com/anasadeel01" target="_blank" rel="noreferrer" className="w-9 h-9 rounded-lg glass flex items-center justify-center text-slate-300 hover:text-white hover:border-cyan-glow/40 transition-colors">
             <GithubIcon className="w-4 h-4" />
           </a>
-          <a href="#" target="_blank" rel="noreferrer" className="w-9 h-9 rounded-lg glass flex items-center justify-center text-slate-300 hover:text-white hover:border-cyan-glow/40 transition-colors">
+                  <a href="https://www.linkedin.com/in/anas-adeel-1718a4382/" target="_blank" rel="noreferrer" className="w-9 h-9 rounded-lg glass flex items-center justify-center text-slate-300 hover:text-white hover:border-cyan-glow/40 transition-colors">
             <LinkedinIcon className="w-4 h-4" />
           </a>
         </div>
