@@ -59,7 +59,7 @@ export default function Navbar() {
 
         <div className="hidden md:flex items-center gap-3">
           <a
-            href="https://github.com/Abrar-ul-hasnain"
+            href="https://github.com/anasadeel01"
             target="_blank"
             rel="noreferrer"
             className="flex items-center gap-2 px-4 py-2 rounded-xl glass text-sm font-medium text-slate-200 hover:text-white hover:border-cyan-glow/40 transition-colors"
